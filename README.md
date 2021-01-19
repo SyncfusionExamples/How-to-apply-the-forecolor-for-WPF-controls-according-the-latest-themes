@@ -17,8 +17,8 @@ To update the proper color for RibbonStatusBar text of Office2019 themes, the  F
 
 Output in Office2019White:
 
-![RibbonStatusBar_Office2019White](Output_Office2019White.png)
+![RibbonStatusBar_Office2019White](Output_Office2019White.PNG)
 
 Output in Office2019HighContrast:
 
-![RibbonStatusBar_Office2019HighContrast](Output_Office2019HighContrast.png)
+![RibbonStatusBar_Office2019HighContrast](Output_Office2019HighContrast.PNG)
